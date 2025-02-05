@@ -1,0 +1,96 @@
+Accessed at: 2024-11-29 01:08:54
+Updated order_id TP20241129010545 to status settlement
+Accessed at: 2024-11-29 01:08:54
+Updated order_id TP20241129010545 to status settlement
+Accessed at: 2024-11-29 01:08:57
+Updated order_id TP20241129124903 to status settlement
+Accessed at: 2024-11-29 01:08:57
+Updated order_id TP20241129124903 to status settlement
+Accessed at: 2024-11-29 01:09:01
+Updated order_id TP20241112090334 to status 
+Accessed at: 2024-11-29 01:11:25
+Updated order_id TP20241129011024 to status pending
+Accessed at: 2024-11-29 01:11:44
+Updated order_id TP20241129011024 to status settlement
+Accessed at: 2024-11-29 17:38:33
+Updated order_id TP20241129052455 to status settlement
+Accessed at: 2024-11-29 18:04:51
+Updated order_id TP20241128064944 to status settlement
+Accessed at: 2024-11-29 18:29:28
+Updated order_id TP20241128084227 to status settlement
+Accessed at: 2024-11-29 20:43:57
+Updated order_id TP20241127103010 to status expire
+Accessed at: 2024-11-30 08:34:25
+Updated order_id TP20241129062012 to status pending
+Accessed at: 2024-11-30 11:12:58
+Updated order_id TP20241130111157 to status settlement
+Accessed at: 2024-11-30 14:16:39
+Updated order_id TP20241130021524 to status settlement
+Accessed at: 2024-11-30 14:25:02
+Updated order_id TP20241130022343 to status settlement
+Accessed at: 2024-11-30 17:45:07
+Updated order_id TP20241130054429 to status settlement
+Accessed at: 2024-12-02 03:07:46
+Updated order_id TP20241202030533 to status settlement
+Accessed at: 2024-12-02 03:08:44
+Updated order_id TP20241129052455 to status settlement
+Accessed at: 2024-12-02 13:44:24
+Updated order_id TP20241130020939 to status 
+Accessed at: 2024-12-02 14:07:42
+Updated order_id TP20241202020618 to status settlement
+Accessed at: 2024-12-06 18:16:03
+Updated order_id TP20241206061520 to status settlement
+Accessed at: 2024-12-06 18:20:40
+Updated order_id TP20241206062026 to status pending
+Accessed at: 2024-12-07 13:54:35
+Updated order_id TP20241121050428 to status 
+Accessed at: 2024-12-07 13:56:11
+Updated order_id TP20241207025527 to status settlement
+Accessed at: 2024-12-07 15:53:24
+Updated order_id TP20241207042426 to status pending
+Accessed at: 2024-12-07 17:18:57
+Updated order_id TP20241207042426 to status expire
+Accessed at: 2024-12-07 18:06:31
+Updated order_id TP20241207042426 to status expire
+Accessed at: 2024-12-07 18:09:51
+Updated order_id TP20241207042426 to status expire
+Accessed at: 2024-12-07 18:13:11
+Updated order_id TP20241207071232 to status settlement
+Accessed at: 2024-12-07 18:30:15
+Updated order_id TP20241207071232 to status settlement
+Accessed at: 2024-12-07 18:30:23
+Updated order_id TP20241207042426 to status expire
+Accessed at: 2024-12-07 18:33:23
+Updated order_id TP20241207071232 to status settlement
+Accessed at: 2024-12-07 18:45:54
+Updated order_id TP20241207071232 to status settlement
+Accessed at: 2024-12-07 19:08:27
+Updated order_id TP20241207060751 to status settlement
+Accessed at: 2024-12-07 19:08:53
+Updated order_id TP20241207060751 to status settlement
+Accessed at: 2024-12-07 20:32:29
+Updated order_id TP20241207060751 to status settlement
+Accessed at: 2024-12-07 20:38:54
+Updated order_id TP20241207071212 to status settlement
+Accessed at: 2024-12-12 05:12:05
+Updated order_id TP20241212051032 to status settlement
+Accessed at: 2024-12-12 05:15:40
+Updated order_id TP20241212051032 to status pending
+Accessed at: 2024-12-12 05:16:54
+Updated order_id TP20241212051608 to status settlement
+Accessed at: 2024-12-28 16:22:36
+Updated order_id TP20241228041920 to status settlement
+Accessed at: 2024-12-28 16:28:53
+Updated order_id TP20241228041920 to status settlement
+Accessed at: 2025-01-08 17:17:49
+Updated order_id TP20250108051538 to status settlement
+Accessed at: 2025-01-24 15:29:08
+Updated order_id TP20250124032838 to status settlement
+Accessed at: 2025-01-24 15:42:03
+Updated order_id TP20250124032838 to status settlement
+Accessed at: 2025-01-24 15:43:06
+Updated order_id TP20250124032624 to status settlement
+Accessed at: 2025-01-28 15:31:53
+Updated order_id TP20250128032850 to status pending
+Accessed at: 2025-01-28 15:37:16
+Updated order_id TP20250128033704 to status pending
