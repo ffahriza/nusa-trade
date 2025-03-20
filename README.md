@@ -9,8 +9,10 @@ SNAPSHOT FOR THE WEBSITE LANDING PAGE<br>
 <br>
 <h1>Workflow = </h1>
 <lr>
-- PHP Native Framework
+- PHP Native Framework </lr>
+<lr>
 - Bootstrap
+</lr>
 - HTML Web 
 - styling with CSS
 - JavaScript Program Language
@@ -20,4 +22,4 @@ SNAPSHOT FOR THE WEBSITE LANDING PAGE<br>
 - MySQL Database Integrated
 - React.JS
 - PHPMailer as OTP Verification
-</lr>
+
