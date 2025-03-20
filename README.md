@@ -7,7 +7,7 @@ SNAPSHOT FOR THE WEBSITE LANDING PAGE<br>
 
 ![SS NUSATRADE](https://github.com/user-attachments/assets/31321441-3996-4560-aabb-638150404dca)
 <br>
-Workflow =
+(h1>Workflow = </h1>
 - PHP Native Framework
 - Bootstrap
 - HTML Web 
@@ -15,3 +15,7 @@ Workflow =
 - JavaScript Program Language
 - Midtrans as Payment Gateway (Sandbox)
 - Customer and Admin Page ( account level cust/adm )
+- HASH password for user's security to DATABASE
+- MySQL Database Integrated
+- React.JS
+- PHPMailer as OTP Verification
