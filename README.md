@@ -7,7 +7,7 @@ SNAPSHOT FOR THE WEBSITE LANDING PAGE<br>
 
 ![SS NUSATRADE](https://github.com/user-attachments/assets/31321441-3996-4560-aabb-638150404dca)
 <br>
-(h1>Workflow = </h1>
+<h1>Workflow = </h1>
 - PHP Native Framework
 - Bootstrap
 - HTML Web 
